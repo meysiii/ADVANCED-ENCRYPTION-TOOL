@@ -68,5 +68,10 @@ Meets internship requirements by demonstrating secure file handling and GUI appl
 
 # encrypt
 
+![Image](https://github.com/user-attachments/assets/10b80cef-11e2-4f38-b70a-19eaac94a133)
+
+# decrypt
+
+
 
 
