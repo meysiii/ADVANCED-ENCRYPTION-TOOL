@@ -48,6 +48,8 @@ Automatically handles key-based encryption and decryption
 
 ## How It Works:
 
+https://github.com/meysiii/ADVANCED-ENCRYPTION-TOOL
+
 The user selects a file using the Encrypt File button.
 
 The file is encrypted and saved as <filename>.enc.
